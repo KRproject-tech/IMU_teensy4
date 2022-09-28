@@ -17,7 +17,7 @@ BMX055 is employed as the 9-axis motion sensor to measure the angular velocities
 https://www.arduino.cc/reference/en/libraries/eigen/
 
 ## Matlab (R2007b - )
-* __plot_3D_attitude.m__  : Code to plot the attitude estimated by IMU
+* __plot_3D_attitude.m__  : Code to plot the attitude estimated by IMU (Please modify the __COM Port Number__ for your PC)
 
 ## Demonstration movie
 https://youtu.be/UfdOCR3FNwQ
