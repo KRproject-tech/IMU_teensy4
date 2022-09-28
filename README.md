@@ -6,7 +6,7 @@ BMX055 is employed as the 9-axis motion sensor to measure the angular velocities
 
 ## Hardwares
 * __MCU board__ : teensy 4.0
-* __9DoF motion sensor__ : BMX055
+* __9DoF motion sensor__ : BMX055 (https://akizukidenshi.com/catalog/g/gK-13010/)
 
 ## Arduino sketches
 * __test.ino__    : main
