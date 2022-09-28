@@ -23,7 +23,7 @@ https://www.arduino.cc/reference/en/libraries/eigen/
 https://youtu.be/UfdOCR3FNwQ
 
 ## Wiring
-![図1](https://user-images.githubusercontent.com/114337358/192680682-621c076f-3b24-457d-8e59-c714b976df41.png)
+![図1](https://user-images.githubusercontent.com/114337358/192680988-31aca1a6-85d3-4055-aff8-a52541c61929.png)
 
 ## Image
 ![imu](https://user-images.githubusercontent.com/114337358/192146023-927ccd81-bf7d-4c9d-a581-a27021840ddb.png)
