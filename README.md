@@ -9,8 +9,7 @@ BMX055 is employed as the 9-axis motion sensor to measure the angular velocities
 * __9DoF motion sensor__ : BMX055 (https://akizukidenshi.com/catalog/g/gK-13010/)
 
 ## Initial setting for AE-BMX055
-![192917955-fb69abee-906f-49f6-9e24-79df39dd9be5](https://user-images.githubusercontent.com/114337358/192918108-1b4f33ec-feff-4c26-b3e6-b885b96f22ae.png)
-
+![192917955-fb69abee-906f-49f6-9e24-79df39dd9be5](https://user-images.githubusercontent.com/114337358/192918427-d25a55c3-7cfc-4eec-b05a-6da66e5f165d.png)
 
 ## Arduino sketches
 * __test.ino__    : main
