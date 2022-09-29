@@ -8,6 +8,10 @@ BMX055 is employed as the 9-axis motion sensor to measure the angular velocities
 * __MCU board__ : teensy 4.0
 * __9DoF motion sensor__ : BMX055 (https://akizukidenshi.com/catalog/g/gK-13010/)
 
+## Initial setting for BMX055-A
+![image](https://user-images.githubusercontent.com/114337358/192917955-fb69abee-906f-49f6-9e24-79df39dd9be5.png)
+
+
 ## Arduino sketches
 * __test.ino__    : main
 * __EKF.ino__     : Extended Kalman filter code to estimate attitude
