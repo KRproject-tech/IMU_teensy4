@@ -22,7 +22,9 @@ https://www.arduino.cc/reference/en/libraries/eigen/
 ## Matlab (R2007b - )
 * __plot_3D_attitude.m__  : Code to plot the attitude estimated by IMU (Please modify the __COM Port Number__ for your PC)
 * __plot_Mag_field.m__ in ./Calibration/Mag_bias_log/ : Calibration for a magnetic sensor from logged data; "Mag_bias_log.txt". 
-     
+
+__Data format of "Mag_bias_log.txt"__: 
+[time s] [acc x m/s^2] [acc y m/s^2] [acc z m/s^2] [mag x a.u.] [mag y a.u.] [mag z a.u.]     
 
 ## Demonstration movie
 https://youtu.be/UfdOCR3FNwQ
