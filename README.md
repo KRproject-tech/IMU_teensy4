@@ -26,6 +26,12 @@ https://www.arduino.cc/reference/en/libraries/eigen/
 __Data format of "Mag_bias_log.txt"__: 
 [time s] [acc x m/s^2] [acc y m/s^2] [acc z m/s^2] [mag x a.u.] [mag y a.u.] [mag z a.u.]     
 
+## Connections
+
+![image](https://user-images.githubusercontent.com/114337358/203757645-d324abc6-b262-4ad3-8e6c-3ea7b578d1d7.png)
+
+
+
 ## Demonstration movie
 https://youtu.be/UfdOCR3FNwQ
 
