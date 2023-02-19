@@ -1,4 +1,4 @@
-# IMU_teensy4
+# <p align=center>IMU_teensy4</p>
 ## Overview
 Quaternion based IMU with Extended Kalman Filter (EKF) for Teensy 4.0 .
 
