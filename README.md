@@ -1,4 +1,13 @@
 # <p align=center>IMU_teensy4</p>
+
+**Communication**
+
+<a style="text-decoration: none" href="https://twitter.com/hogelungfish" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%40hogelungfish-1da1f2.svg" alt="Twitter">
+</a>
+<p>
+
+
 ## Overview
 Quaternion based IMU with Extended Kalman Filter (EKF) for Teensy 4.0 .
 
