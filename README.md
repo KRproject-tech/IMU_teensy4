@@ -20,6 +20,14 @@ Quaternion based IMU with Extended Kalman Filter (EKF) for Teensy 4.0 .
 
 BMX055 is employed as the 9-axis motion sensor to measure the angular velocities and the magnetic fields.
 
+## Directory    
+<pre>
+├─Calibration
+│  └─Mag_bias_log
+└─memo    
+</pre>
+
+
 ## Hardwares
 * __MCU board__ : teensy 4.0
 * __9DoF motion sensor__ : BMX055 (https://akizukidenshi.com/catalog/g/gK-13010/)
