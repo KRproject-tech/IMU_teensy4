@@ -62,6 +62,3 @@ __Data format of "Mag_bias_log.txt"__:
 
 ## Wiring
 ![図1](https://user-images.githubusercontent.com/114337358/192680988-31aca1a6-85d3-4055-aff8-a52541c61929.png)
-
-## Image
-![imu](https://user-images.githubusercontent.com/114337358/192146023-927ccd81-bf7d-4c9d-a581-a27021840ddb.png)
