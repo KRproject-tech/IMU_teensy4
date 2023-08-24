@@ -2,8 +2,8 @@
 
 **Communication**
 
-<a style="text-decoration: none" href="https://twitter.com/hogelungfish" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%40hogelungfish-1da1f2.svg" alt="Twitter">
+<a style="text-decoration: none" href="https://twitter.com/hogelungfish_" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%40hogelungfish_-1da1f2.svg" alt="Twitter">
 </a>
 <p>
 
@@ -57,7 +57,8 @@ __Data format of "Mag_bias_log.txt"__:
 
 
 ## Demonstration movie
-https://youtu.be/UfdOCR3FNwQ
+[![](https://img.youtube.com/vi/UfdOCR3FNwQ/0.jpg)](https://youtu.be/UfdOCR3FNwQ)
+
 
 ## Wiring
 ![図1](https://user-images.githubusercontent.com/114337358/192680988-31aca1a6-85d3-4055-aff8-a52541c61929.png)
